@@ -9,4 +9,4 @@ Descrption link for NOTIME problem :https://www.codechef.com/MARCH21C/problems/N
 
 
 Problem code for Chef and Groups on CodeChef :GROUPS ,
-Descrption link for NOTIME problem : https://www.codechef.com/MARCH21C/problems/GROUPS
+Descrption link for GROUPS problem : https://www.codechef.com/MARCH21C/problems/GROUPS
