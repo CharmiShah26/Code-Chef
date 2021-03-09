@@ -1,7 +1,7 @@
 # Code-Chef
 MARCH21C - DIV3 
 
-You can even have glance at my solutions if you aren't associated with CodeChef through below provided links and Problem Codes , Hope it Help !
+You can even have glance at my solutions if you aren't associated with CodeChef through below provided links and Problem Codes , Hope it Helps !
 
 Problem Code for No Time to Wait on CodeChef : NOTIME ,
 Descrption link for NOTIME problem :https://www.codechef.com/MARCH21C/problems/NOTIME
